@@ -1,0 +1,1 @@
+# genetik_optimizasyonu
