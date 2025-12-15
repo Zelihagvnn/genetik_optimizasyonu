@@ -69,7 +69,7 @@ Kod içerisinde uygulanan ceza mekanizması:
 | :--- | :--- | :--- |
 | **Kodlama** | **Gerçel Değer (Real-Valued)** | Problem sürekli (continuous) bir uzayda olduğu için binary kodlama yerine float değerler kullanılmıştır. |
 | **Seçilim** | **Turnuva Seçimi (Tournament)** | Rulet tekerleğine göre seçim baskısını (selection pressure) daha iyi kontrol etmek ve erken yakınsamayı önlemek için seçilmiştir. (Boyut: 5) |
-| **Çaprazlama** | **Aritmetik Çaprazlama** | Ebeveynlerin genlerinin ağırlıklı ortalamasını alarak ($Child = \alpha P_1 + (1-\alpha)P_2$) ara değerler üretir. Sayısal optimizasyon için idealdir. |
+| **Çaprazlama** | **Aritmetik Çaprazlama** | Ebeveynlerin genlerinin ağırlıklı ortalamasını alarak ara değerler üretir. Sayısal optimizasyon için idealdir. |
 | **Mutasyon** | **Gaussian (Normal) Mutasyon** | Genin mevcut değerine küçük bir gürültü (noise) ekleyerek yerel minimumdan kurtulmayı sağlar. |
 
 ---
