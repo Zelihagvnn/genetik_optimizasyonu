@@ -12,7 +12,7 @@
 | **Adı Soyadı** | Zeliha GÜVEN |
 | **Öğrenci No** | 2312721042 |
 | **Bölüm** | Bilgisayar Mühendisliği |
-| **GitHub** | [Repo Bağlantısı] |
+| **GitHub** | https://github.com/Zelihagvnn/genetik_optimizasyonu.git |
 
 </div>
 
